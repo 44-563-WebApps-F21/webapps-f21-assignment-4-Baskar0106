@@ -39,19 +39,21 @@
 }
 .LADY-HUNSTANTON:hover
 {
+    color: tomato;
     text-shadow:royalblue;
     filter: blur(2px);
 }
-.MRS. ALLONBY
+.MRS.ALLONBY
 {
     color:rgb(235, 47, 110);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 
 }
-.MRS. ALLONBY:hover
+.MRS.ALLONBY:hover
 {
-    text-shadow:seagreen;
+    color: teal;
+    text-shadow:rgb(6, 68, 33);
     filter: blur(2px);
 }
 .table
@@ -63,4 +65,20 @@
     margin: 8px;
     padding-left: 8px;
     border-collapse: collapse;
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li
+{ 
+   float:left; 
+   color:#000;background-color:lightgray
+}
+ul.navbar-horizontal a {
+   display:block;padding:8px
+}
+ul.navbar-horizontal a:hover { 
+   background-color: #555;color:white;
 }
