@@ -1,0 +1,57 @@
+.speech
+{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.stage-direction
+{
+    color: black;
+    background-color:lavender;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.stage-direction:hover
+{
+    color:greenyellow;
+    background-color: ivory;
+}
+.name
+{
+    color:rgb(100, 150, 176);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    
+}
+.name:hover
+{
+
+    text-shadow: rosybrown;
+    filter: blur(2px);
+}
+.LADY-HUNSTANTON
+{
+    color:rgb(56, 44, 61);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.LADY-HUNSTANTON:hover
+{
+    text-shadow:royalblue;
+    filter: blur(2px);
+}
+.MRS.ALLONBY
+{
+    color:rgb(88, 132, 99);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.MRS.ALLONBY:hover
+{
+    text-shadow:seagreen;
+    filter: blur(2px);
+}
+
